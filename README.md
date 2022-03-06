@@ -4,7 +4,7 @@
   You can call me Lucy or via my online username ConaII, i'm a young developer that is just learning things from pure curiosity, joy and passion.
   I'm currently in highschool and i'm not that far from university. I'm going towards programming obviously.                                    
   Besides that, i'm not really doing too well.. so it's hard to keeup constant activity being constantly on low mod.                            
-  Because of this, I do some programming every so often, sometimes more, sometimes less. Depends in the proyect and the pri
+  Because of this, I do some programming every so often, sometimes more, sometimes less. Depends in the proyect and the priority
   
 
 ### 💻 I’m currently working on ...
