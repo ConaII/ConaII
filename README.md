@@ -38,7 +38,7 @@
   - Gender: Femenine
   - Pronouns: Whatever, I don't mind, just "*she/her*"
   - 🙋 Reach me in my discord: **`.ʟᴜᴄʏ｡ﾟ･(˃﹏˂̵)･ﾟ｡🖤#0967`**
-  - 📫 Contact me in my sort of working email: **conahiromi@gmail.com** *(I use it for tech related)*
+  - 📫 Contact me with email: **conahiromi@gmail.com**
 
 <!--
 **ConaII/ConaII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
