@@ -1,7 +1,7 @@
 ### Introduction 👋
   Hello!, here is some more info about me and my current projects. Sorry if it's too much, you don't really need to read all of that.
   
-  You can call me Lucy or via my online username ConaII, i'm a young developer that is just learning things from pure curiosity, joy and passion.
+  You can call me Lucy or via my online username ConaII, i'm a young developer that is just learning things that interest me.
   I'm currently in highschool and i'm not that far from university. I'm going towards programming obviously.                                    
   Besides that, i'm not really doing too well.. so it's hard to keeup constant activity being constantly on low mod.                            
   Because of this, I do some programming every so often, sometimes more, sometimes less. Depends in the proyect and the priority
