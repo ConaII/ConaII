@@ -1,4 +1,11 @@
 ### Introduction 👋
+  Hello!, here is some more info about me and my current projects. Sorry if it's too much, you don't really need to read all of that.
+  
+  You can call me Lucy or via my online username ConaII, i'm a young developer that is just learning things from pure curiosity, joy and passion.
+  I'm currently in highschool and i'm not that far from university. I'm going towards programming obviously.                                    
+  Besides that, i'm not really doing too well.. so it's hard to keeup constant activity being constantly on low mod.                            
+  Because of this, I do some programming every so often, sometimes more, sometimes less. Depends in the proyect and the pri
+  
 
 ### 💻 I’m currently working on ...
 *NOTE: Most of my projects are currently personal, in progress and therebefore, private.*                                              
@@ -17,7 +24,7 @@
   - **Python**
   - **C++**
 
-### Other languages ...
+### 🤔 Other languages ...
 *NOTE: I don't have extensive knowledge of all these, but i have some degree of it and usage or interest*
   - *JavaScript* & *Java Discord API*
   - *PowerShell*, *Batch*, *Bash/Shell*
@@ -27,7 +34,9 @@
   - GDScript *(Didn't touch it yet but interested to do so)* (https://godotengine.org/)
 
 ### 💌 About me: ...
-  - Pronouns: I don't mind, just "*she/her*"
+  - I love linux, only if windows wasn't so proprietary with bloatware and spyware..
+  - Gender: Femenine
+  - Pronouns: Whatever, I don't mind, just "*she/her*"
   - 🙋 Reach me in my discord: **`.ʟᴜᴄʏ｡ﾟ･(˃﹏˂̵)･ﾟ｡🖤#0967`**
   - 📫 Contact me in my sort of working email: **conahiromi@gmail.com** *(I use it for tech related)*
 
