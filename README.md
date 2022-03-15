@@ -13,7 +13,7 @@
   - **[Java]**: ServerAdditions *(Spigot)*
   - **[Python]**: **ZStart**
   - **[Python]**: **woodRewritten / Wood**
-  - **[C++]**: DuckCHARM
+  - **[C#]**: DuckCHARM
   - **[Java]**: mSkin *(Spigot & Forge & Fabric)*
   - **[Java]**: StaffDuty *(Spigot)*
   - **[Java]**: PlayerActions *(Spigot)*
