@@ -1,11 +1,9 @@
 ### Introduction 👋
   Hello!, here is some more info about me and my current projects. Sorry if it's too much, you don't really need to read all of that.
   
-  You can call me Lucy or via my online username ConaII, i'm a young developer that is just learning things that interest me.
-  I'm currently in highschool and i'm not that far from university. I'm going towards programming obviously.                                    
-  Besides that, i'm not really doing too well.. so it's hard to keeup constant activity being constantly on low mod.                            
-  Because of this, I do some programming every so often, sometimes more, sometimes less. Depends in the proyect and the priority
-  
+  My name is Lucy, i started programming in 2020 (Also in that year I started testing linux)
+   I'm currently in highschool, recently i transferred to an Computer Science one. Planning to go to university to study Computer-Related fields.                               
+  I may be more or less active depending on my mood..
 
 ### 💻 I’m currently working on ...
 *NOTE: Most of my projects are currently personal, in progress and therebefore, private.*                                              
@@ -19,10 +17,11 @@
   - **[Java]**: PlayerActions *(Spigot)*
   - **[JDA]**: ServerAdditions BOT *(Discord)*
   
-### 🌱 I’m currently learning ...
+### 🌱 I’m currently 4earning ...
   - **Java**
   - **Python**
   - **C++**
+  - **GDScript** *(Very new to this)* (https://godotengine.org/)
 
 ### 🤔 Other languages ...
 *NOTE: I don't have extensive knowledge of all these, but i have some degree of it and usage or interest*
@@ -31,14 +30,15 @@
   - AutoHotKey *(Used it for personal usage)*
   - LUA *(I don't really like this one..)*
   - Kotlin *(Didn't touch it yet but interested to do so using kryptonmc or raw)* (https://kryptonmc.org/)
-  - GDScript *(Didn't touch it yet but interested to do so)* (https://godotengine.org/)
+
 
 ### 💌 About me: ...
-  - I love linux, only if windows wasn't so proprietary with bloatware and spyware..
+  - I love linux, my distros are Garuda & EndeavorOS 
+  - I like windows but.. I dislike many things from it (Bloatware, Spyware, Propietary, etc)
   - Gender: Femenine
-  - Pronouns: Whatever, I don't mind, just "*she/her*"
+  - Pronouns: *she/her* (I don't really care what pronouns are used)
   - 🙋 Reach me in my discord: **`.ʟᴜᴄʏ｡ﾟ･(˃﹏˂̵)･ﾟ｡🖤#0967`**
-  - 📫 Contact me with email: **conahiromi@gmail.com**
+  - 📫 Contact me via email: **conahiromi@gmail.com**
 
 <!--
 **ConaII/ConaII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
