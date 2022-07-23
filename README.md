@@ -1,9 +1,5 @@
 ### Introduction 👋
   Hello!, here is some more info about me and my current projects. Sorry if it's too much, you don't really need to read all of that.
-  
-  My name is Lucy, i started programming in 2020 (Also in that year I started testing linux)
-   I'm currently in highschool, recently i transferred to an Computer Science one. Planning to go to university to study Computer-Related fields.                               
-  I may be more or less active depending on my mood..
 
 ### 💻 I’m currently working on ...
 *NOTE: Most of my projects are currently personal, in progress and therebefore, private.*                                              
@@ -21,7 +17,8 @@
   - **Java**
   - **Python**
   - **C++**
-  - **GDScript** *(Very new to this)* (https://godotengine.org/)
+  - **Rust**
+  - **GDScript** (https://godotengine.org/)
 
 ### 🤔 Other languages ...
 *NOTE: I don't have extensive knowledge of all these, but i have some degree of it and usage or interest*
@@ -33,10 +30,10 @@
 
 
 ### 💌 About me: ...
-  - I love linux, my distros are Garuda & EndeavorOS 
-  - I like windows but.. I dislike many things from it (Bloatware, Spyware, Propietary, etc)
-  - Gender: Femenine
-  - Pronouns: *she/her* (I don't really care what pronouns are used)
+  - I love linux, my distros are Garuda & EndeavorOS.
+  - I don't dislike windows, i hate his ways of bloatware, spyware, propietary software, etc.
+  - Gender: Femenine.
+  - Pronouns: *she/her*.
   - 🙋 Reach me in my discord: **`.ʟᴜᴄʏ｡ﾟ･(˃﹏˂̵)･ﾟ｡🖤#0967`**
   - 📫 Contact me via email: **conahiromi@gmail.com**
 
